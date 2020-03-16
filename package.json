@@ -1,0 +1,18 @@
+{
+  "name": "testequalicorp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "nodemon --inspect ."
+  },
+  "author": "Luan Santos",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "neo4j-driver": "^4.0.1",
+    "nodemon": "^2.0.2"
+  }
+}
